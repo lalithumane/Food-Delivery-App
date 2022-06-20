@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Lalit",
+        "Phone Number": "750710811",
+        "Email": "lalithumane@gmail.com",
+        "Address": "Amravati",
+        "Password": "Lalit@123",
+        "Order history": []
+    },
+    {
+        "id": 2,
+        "Name": "Dhahiwada",
+        "no of plates": "1"
+    }
+]
